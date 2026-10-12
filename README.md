@@ -71,6 +71,3 @@ Any Docker host (Fly.io, Railway, Cloud Run) works the same way. Set `SECRET_KEY
 - **JWT stored in `localStorage`.** Simple and fine for a demo. A production hardening step would be httpOnly cookies with CSRF protection.
 - **Aggregation in SQL**, so the charts stay fast as the number of expenses grows.
 
-## Ideas for next steps
-
-Edit expenses, CSV import and export, monthly budgets with alerts, rate limiting on auth routes, Postgres, and end-to-end tests with Playwright.
