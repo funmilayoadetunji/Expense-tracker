@@ -1,6 +1,6 @@
 # Ledgerly — Expense Tracker
 
-**🔗 Live demo: https://YOUR-APP-NAME.onrender.com** *(replace after deploying — see "Deploy" below)*
+**🔗 Live demo: https://ledgerly-7vak.onrender.com
 
 A full-stack expense tracker with user accounts, a responsive dashboard, and charts. React frontend, Flask (Python) backend, shipped as a single Docker container.
 
